@@ -1,11 +1,9 @@
 echo "# Download-universal-drm-panel-v3-DRM-Script" >> README.md
 
-https://paksat.pk/cccam/download-universal-drm-panel-v3-drm-script/
+https://streamora.dev/
 
-https://drm.xtream-masters.com/signup.php?invite=geoiptv
+<img width="2560" height="1283" alt="streamora" src="https://github.com/user-attachments/assets/2b369ac1-c33e-4ac1-8f52-c5fc2c25d54c" />
 
-
-![Untitled](https://user-images.githubusercontent.com/60063959/233630327-8373359b-7f00-4a65-9673-ef4adc78dd64.png)
 
 Hi, If you looking for a way to stream MPD DASH content that is DRM protected? Look no further than the drm panel script from XtreamMasters (XM). Our powerful panel lets you easily convert MPD streams to HLS and stream-protected content without restrictions. In this blog post, we’ll explore the features and benefits of drm panel script and show you how it can help you easily manage and stream your digital content.
 
