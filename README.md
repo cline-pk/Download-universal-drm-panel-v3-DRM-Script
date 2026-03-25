@@ -2,6 +2,11 @@ echo "# Download-universal-drm-panel-v3-DRM-Script" >> README.md
 
 https://streamora.dev/
 
+```
+Recommended: Use the auto-installer instead:
+  bash <(curl -s https://streamora.dev/updates/install.sh)
+```
+
 <img width="2560" height="1283" alt="streamora" src="https://github.com/user-attachments/assets/2b369ac1-c33e-4ac1-8f52-c5fc2c25d54c" />
 
 
